@@ -99,6 +99,6 @@
 		"denoland.vscode-deno"
 	],
 	"dependencies": {
-		"semver": "^7.3.5"
+		"semver": "^7.7.2"
 	}
 }
